@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CrossLinks/static/css/main.ba595110.css",
-    "main.js": "/CrossLinks/static/js/main.5cf70f2e.js",
+    "main.js": "/CrossLinks/static/js/main.ef3d6469.js",
     "static/js/453.8e8d6c4d.chunk.js": "/CrossLinks/static/js/453.8e8d6c4d.chunk.js",
     "static/media/slick.svg": "/CrossLinks/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/CrossLinks/static/media/slick.a4e97f5a2a64f0ab1323.eot",
@@ -9,11 +9,11 @@
     "static/media/slick.woff": "/CrossLinks/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/CrossLinks/index.html",
     "main.ba595110.css.map": "/CrossLinks/static/css/main.ba595110.css.map",
-    "main.5cf70f2e.js.map": "/CrossLinks/static/js/main.5cf70f2e.js.map",
+    "main.ef3d6469.js.map": "/CrossLinks/static/js/main.ef3d6469.js.map",
     "453.8e8d6c4d.chunk.js.map": "/CrossLinks/static/js/453.8e8d6c4d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ba595110.css",
-    "static/js/main.5cf70f2e.js"
+    "static/js/main.ef3d6469.js"
   ]
 }
