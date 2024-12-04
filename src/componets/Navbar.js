@@ -8,22 +8,19 @@ function Navbar() {
         <NavbarBS expand="lg" className="fixed-top bg-body-tertiary shadow z-1">
             <Container>
                 <NavbarBS.Brand className={'col-md-2 col-6'} href="">
-                    <img className={'w-100'} src={'logo.jpg'} alt="logo" />
+                    <img className={'w-50'} src={'logo.png'} alt="logo" />
                 </NavbarBS.Brand>
                 <NavbarBS.Toggle aria-controls="basic-navbar-nav" />
                 <NavbarBS.Collapse id="basic-navbar-nav">
                     <Nav className="me-auto">
-                        <Nav.Link href="#home">Home</Nav.Link>
-                        <Nav.Link href="#missionaries">Missionaries</Nav.Link>
-                        <Nav.Link href="#about-us">About Us</Nav.Link>
+                        <Nav.Link href="#home">Введение</Nav.Link>
+                        <Nav.Link href="#missionaries">Выхлопные газы транспорта</Nav.Link>
+                        <Nav.Link href="#block2">Загрязнение воздуха в отопительный период</Nav.Link>
+                        <Nav.Link href="#about-us">Плохие дороги</Nav.Link>
+                        <Nav.Link href="#block3">Свалки трудноразлагаемых отходов</Nav.Link>
+                        <Nav.Link href="#block4">Заключение</Nav.Link>
                     </Nav>
-                    <Nav>
-                        <span className={'fs-6 fst-italic me-2'}>We welcome your support:</span>
-                        <div className={"d-flex"}>
-                            <img className={"w-75 justify-content-center"} style={{maxWidth:"70px"}} alt="Make payments with PayPal - it's fast, free and secure!"
-                                  src={"PayPal.gif"}/>
-                        </div>
-                    </Nav>
+
                 </NavbarBS.Collapse>
             </Container>
         </NavbarBS>

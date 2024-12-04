@@ -5,10 +5,14 @@ function TextBlock(props) {
     return (
         <Container className={'mt-5 '}>
             <div className={"green-text-block"} style={{backgroundImage: 'url("background.jpg")'}}>
+                <h1 className={"pt-5 mb-0"}>Проблемы экологического загрязнения в городе Фрунзе и пути их решения:
+                    физический подход</h1>
                 <p className={"p-lg-5 p-sm-3"}>
-                    Cross-Links is engaged in humanitarian aid, economic development and pastorial support.
-                    We also support several institutions and ministries. Short term missions trips are taken
-                    several times each year to minister to churches, orphanges and serve with existing ministries.
+                    Современные экологические проблемы требуют внимания как на глобальном, так и на локальном уровнях.
+                    Фрунзе, небольшой город в Окницком районе Молдовы, сталкивается с рядом экологических вызовов, таких как
+                    загрязнение воздуха от транспорта и отопления, а также проблемы с отходами и дорогами.
+                    Эти явления можно рассмотреть с физической точки зрения, анализируя процессы, лежащие
+                    в основе загрязнения, и предлагая эффективные решения.
                 </p>
             </div>
         </Container>

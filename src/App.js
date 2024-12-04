@@ -8,6 +8,9 @@ import Footer from "./componets/Footer";
 import AboutUs from "./componets/AboutUs";
 import Missionaries from "./componets/Missionaries";
 import TextBlock from "./componets/TextBlock";
+import Block2 from "./componets/Block2";
+import Block3 from "./componets/Block3";
+import Block4 from "./componets/Block4";
 
 
 function App() {
@@ -16,9 +19,13 @@ function App() {
       <Navbar />
         <div style={{marginTop:"80px"}}>
             <SimpleSlider />
+
             <TextBlock />
             <Missionaries/>
+            <Block2 />
             <AboutUs />
+            <Block3 />
+            <Block4 />
             <Footer />
         </div>
 
